@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Godinho_sama.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="appPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="favOpened" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="appsOpened" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="fileExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.gsm</Value>
+    </Setting>
+    <Setting Name="cacheExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.gsc</Value>
+    </Setting>
+    <Setting Name="firstOpen" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="showAlert" Type="System.String" Scope="User">
+      <Value Profile="(Default)">first</Value>
+    </Setting>
+    <Setting Name="closeFunction" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tray</Value>
+    </Setting>
+    <Setting Name="windowState" Type="System.String" Scope="User">
+      <Value Profile="(Default)">normal</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
